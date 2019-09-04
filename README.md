@@ -3,5 +3,5 @@
 
 ## フォルダ構成
  chaptersフォルダ内は講義ファイル (https://weblab.t.u-tokyo.ac.jp/gci_contents/)
- ルートフォルダ配下のjupiternotebookが自分で整理した学習記録
+ ルートフォルダ配下のファイルは、講義ファイルをコピーして、「やってみよう」や、演習問題の回答を追加したもの
 
